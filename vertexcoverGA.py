@@ -1,6 +1,4 @@
-# Genetic Algorithms - Vertex Cover #
-# Author: Ameya Daigavane #
-# Date: 26th April, 2018 #
+
 # An implementation of the genetic algorithm given in 'Evolutionary Algorithms for Vertex Cover' by Isaac K. Evans #
 import networkx as nx
 import numpy as np
