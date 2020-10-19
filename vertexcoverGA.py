@@ -1,5 +1,4 @@
-
-# An implementation of the genetic algorithm given in 'Evolutionary Algorithms for Vertex Cover' by Isaac K. Evans #
+# An implementation of the genetic algorithm given in 'Evolutionary Algorithms for Vertex Cover'
 import networkx as nx
 import numpy as np
 from random import randint, uniform, choice, shuffle
