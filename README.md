@@ -1,4 +1,4 @@
-# vertexcover-using-genetic-algorithm
+# Vertexcover using Genetic Algorithm
 A new hybrid approach based on genetic algorithm for minimum vertex cover
 
 step 1: download the vertexcover_GA 
